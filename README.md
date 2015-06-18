@@ -24,5 +24,5 @@ Enjoy!
 * Open the Snippets menu on the left side-bar and drag one of the custom modules to your patch
 
 
-Spektro Audio
-http://spektroaudio.com/
+**Spektro Audio**  
+[http://spektroaudio.com/](http://spektroaudio.com/)
