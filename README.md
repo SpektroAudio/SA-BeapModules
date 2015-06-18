@@ -9,8 +9,8 @@ These modules are available for free however we do not offer support for them.
 Enjoy!
 
 ## Available Modules
-* Quad Spatial Mixer
-* Digital Noise
+* **Quad Spatial Mixer**: The QSM is a 4-ch mono mixer which features Pan CV inputs for all channels and 1 stereo aux channel.
+* **Digital Noise**: digital noise generator with Rate control and CV input.
 
 ## Requirements
 
