@@ -23,6 +23,8 @@ Enjoy!
 * Open Max 7
 * Open the Snippets menu on the left side-bar and drag one of the custom modules to your patch
 
+------------------------
+
 
 **Spektro Audio**  
 [http://spektroaudio.com/](http://spektroaudio.com/)
