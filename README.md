@@ -2,7 +2,7 @@
 Custom modules developed by Spektro Audio for Cycling 74's BEAP platform.
 
 ## About
-The BEAP platform, initally created by Stretta, allows users to use custom modules to create modular patches very easily. While we really enjoyed using the built-in BEAP modules available in Max 7, we felt that we could take some time off to develop some more custom modules to add to the platform.  
+The BEAP platform, initally developed by [Stretta](http://www.stretta.com), allows users to use custom modules to create modular patches very easily. While we really enjoyed using the built-in BEAP modules available in Max 7, we felt that we could take some time off to develop some more custom modules to add to the platform.  
 These modules are available for free however we do not offer support for them.  
 Enjoy!
 
@@ -22,3 +22,7 @@ Enjoy!
 
 * Open Max 7
 * Open the Snippets menu on the left side-bar and drag one of the custom modules to your patch
+
+
+Spektro Audio
+http://spektroaudio.com/
