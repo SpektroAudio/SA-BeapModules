@@ -20,6 +20,7 @@ Enjoy!
 ## How to Install
 
 * Copy the .maxsnip files to your Snippets folder (on OSX, the folder is located at ~/Documents/Max 7/Snippets)
+* Install the Karma package via Max 7's Package Manager
 
 ## How to Use
 
