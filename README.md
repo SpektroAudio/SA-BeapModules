@@ -9,8 +9,9 @@ These modules are available for free however we do not offer support for them.
 Enjoy!
 
 ## Available Modules
-* **Quad Spatial Mixer**: The QSM is a 4-ch mono mixer which features Pan CV inputs for all channels and 1 stereo aux channel.
-* **Digital Noise**: digital noise generator with Rate control and CV input.
+* **Quad Spatial Mixer** : The QSM is a 4-ch mono mixer which features Pan CV inputs for all channels and 1 stereo aux channel.
+* **Digital Noise** : Digital noise generator with Rate control and CV input.
+* **Karma** : Sampler module that uses the [Karma~](https://github.com/rconstanzo/karma) object created by Rodrigo Constanzo & raja.
 
 ## Requirements
 
