@@ -12,6 +12,7 @@ Enjoy!
 * **Quad Spatial Mixer** : The QSM is a 4-ch mono mixer which features Pan CV inputs for all channels and 1 stereo aux channel.
 * **Digital Noise** : Digital noise generator with Rate control and CV input.
 * **Karma** : Sampler module that uses the [Karma~](https://github.com/rconstanzo/karma) object created by Rodrigo Constanzo & raja.
+*  **Matrix Router**: Pin matrix router inspired by the EMS VSC3 synthesizer.
 
 ## Requirements
 
